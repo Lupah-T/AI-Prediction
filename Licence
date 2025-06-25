@@ -1,0 +1,11 @@
+
+---
+
+## ✅ `requirements.txt`
+
+```plaintext
+pandas
+numpy
+scikit-learn
+joblib
+kagglehub
